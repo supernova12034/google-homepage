@@ -22,3 +22,10 @@ background-color:rgb(255, 255, 255);
     text-decoration: none;
     color: black;
 }
+
+.sign_in{
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color: rgb(60, 118, 184);
+}
