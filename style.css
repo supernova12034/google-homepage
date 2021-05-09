@@ -40,3 +40,10 @@ background-color:rgb(255, 255, 255);
     font-weight:normal;
     border-radius: 10%;
 }
+
+.navbar{
+ display: grid;
+ grid-template-columns: ;   
+}
+
+/*Finish setting up the grid for the navbar */
