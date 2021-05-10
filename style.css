@@ -43,7 +43,18 @@ background-color:rgb(255, 255, 255);
 
 .navbar{
  display: grid;
- grid-template-columns: ;   
+ grid-template-columns:80px 500px;
+ grid-template-rows: 20px;   
+background-color: aquamarine;
+}
+
+.nav{
+justify-content: start;
+}
+
+.b{
+grid-column:4/5;
+
 }
 
 /*Finish setting up the grid for the navbar */
