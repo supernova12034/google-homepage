@@ -15,7 +15,11 @@ width: 400px;
 
 button{
 
-background-color:rgb(255, 255, 255);
+background-color:#ffffff;
+border-radius: 20%;
+border-style: none;
+/*nuanced subtle shades of grey dont render correctly, so we're going to have to 
+go with white */
 }
 
 .nav:hover{
@@ -63,4 +67,7 @@ margin-left: 1400px;
 }
 
 
-/*Finish setting up the grid for the navbar */
+.icon{
+    margin-left: 18%;
+    margin-top: 10%;
+}
