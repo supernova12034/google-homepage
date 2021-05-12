@@ -9,8 +9,16 @@ background-repeat: no-repeat;
 background-position-y:50%;
 text-indent: 30px;
 border-radius:10%;
+border-width: 0.5px;
+border-color: darkgray;
 height:35px;
 width: 400px;
+}
+/*Trying to tweak and perfect the search border... */
+
+button:hover{
+border-style: solid;
+cursor: pointer;    
 }
 
 button{
