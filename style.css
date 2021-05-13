@@ -109,17 +109,19 @@ margin-top: 20px;
     display: grid;
     grid-template-columns: 500px;
     grid-template-rows: 20px;
-    background-color: darkgrey;
-    margin-top: 210px;
+    background-color: rgb(241, 241, 241);
+    margin-top: 240px;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-
+    font-size: 13px;
+    font-weight: normal;
 }
 
 hr{
     margin: 0 0 0 0;
-    height: 0.8px;
+    color: rgb(179, 179, 179);
+    /* width: 1px; */
     }
 
 .footer{
@@ -129,9 +131,10 @@ hr{
     display: grid;
     grid-template-columns: 100px 100px 100px 100px 100px 1000px; 
     grid-template-rows: 50px;
-    background-color: darkgrey;
+    background-color: rgb(241, 241, 241);
     text-decoration: none;
-    
+    font-size: 12px;
+    text-decoration:rgb(116, 116, 116);
 }
 
 
