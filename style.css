@@ -112,6 +112,8 @@ margin-top: 20px;
     background-color: darkgrey;
     margin-top: 210px;
     padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
 }
 
@@ -125,7 +127,7 @@ hr{
     margin-left: 0;
     margin-right: 0;
     display: grid;
-    grid-template-columns: 100px 100px 100px 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px 100px 1000px; 
     grid-template-rows: 50px;
     background-color: darkgrey;
     text-decoration: none;
@@ -135,14 +137,15 @@ hr{
 
 
 .left_lnks{
+    padding-top: 10px;
 grid-column:1/5;
 
 }
 
 .right_lnks{
-
+padding-top: 10px;
 grid-column:10/11;
-
+margin-left: 50px;
 }
 
 a{
