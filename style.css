@@ -111,7 +111,7 @@ margin-top: 20px;
     grid-template-rows: 20px;
     background-color: darkgrey;
     margin-top: 210px;
- 
+    padding-left: 10px;
 
 }
 
@@ -129,20 +129,26 @@ hr{
     grid-template-rows: 50px;
     background-color: darkgrey;
     text-decoration: none;
+    
 }
 
 
 
 .left_lnks{
 grid-column:1/5;
-/* text-decoration: none;
-this doesnt seem to be working.
-*/
 
 }
 
 .right_lnks{
 
-grid-column:7/8;
+grid-column:10/11;
 
 }
+
+a{
+text-decoration: none;
+padding-left: 10px;
+
+}
+/*Apparently to remove text decoration from the links, you have to target the links
+directly, instead of their parent divs or containers. */
