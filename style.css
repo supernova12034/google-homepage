@@ -110,15 +110,23 @@ margin-top: 20px;
     grid-template-columns: 500px;
     grid-template-rows: 20px;
     background-color: darkgrey;
-    margin-top: 80px;
-    
+    margin-top: 210px;
+ 
 
 }
 
 .footer{
-    /* margin-top: 150px; */
+    
+    margin-left: 0;
+    margin-right: 0;
     display: grid;
     grid-template-columns: 100px 100px 100px 100px 100px 100px;
     grid-template-rows: 50px 50px;
     background-color: darkgrey;
+    
+}
+
+hr{
+margin: 0 0 0 0;
+height: 0.8px;
 }
