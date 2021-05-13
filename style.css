@@ -115,18 +115,34 @@ margin-top: 20px;
 
 }
 
+hr{
+    margin: 0 0 0 0;
+    height: 0.8px;
+    }
+
 .footer{
     
     margin-left: 0;
     margin-right: 0;
     display: grid;
     grid-template-columns: 100px 100px 100px 100px 100px 100px;
-    grid-template-rows: 50px 50px;
+    grid-template-rows: 50px;
     background-color: darkgrey;
-    
+    text-decoration: none;
 }
 
-hr{
-margin: 0 0 0 0;
-height: 0.8px;
+
+
+.left_lnks{
+grid-column:1/5;
+/* text-decoration: none;
+this doesnt seem to be working.
+*/
+
+}
+
+.right_lnks{
+
+grid-column:7/8;
+
 }
