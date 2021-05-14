@@ -116,6 +116,7 @@ margin-top: 20px;
     padding-bottom: 10px;
     font-size: 13px;
     font-weight: normal;
+    color: rgb(63, 63, 63);
 }
 
 hr{
@@ -135,6 +136,7 @@ hr{
     text-decoration: none;
     font-size: 12px;
     text-decoration:rgb(116, 116, 116);
+    
 }
 
 
@@ -154,6 +156,7 @@ margin-left: 50px;
 a{
 text-decoration: none;
 padding-left: 10px;
+color: rgb(63, 63, 63);
 
 }
 /*Apparently to remove text decoration from the links, you have to target the links
