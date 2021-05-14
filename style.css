@@ -76,8 +76,8 @@ margin-left: 1400px;
     border-width: 0.5px;
     border-color: darkgray;
     height:35px;
-    width: 480px;
-    /* margin-right:250px; */
+    width: 550px;
+   margin-right: 150px;
     }
 
 .search{
@@ -121,7 +121,7 @@ margin-top: 20px;
 
 hr{
     margin: 0 0 0 0;
-    color: rgb(179, 179, 179);
+    color:  rgb(209, 209, 209);
     /* width: 1px; */
     }
 
