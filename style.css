@@ -82,9 +82,9 @@ margin-left: 1400px;
 
 .search{
  display: grid;
- grid-template-columns:500px 200px;
+ grid-template-columns:400px 200px;
  grid-template-rows:50px 50px 50px ;
- margin-left: 38%;
+ margin-left: 35%;
  margin-top: 10px;
  margin-right: 35%;
  
@@ -93,7 +93,7 @@ margin-left: 1400px;
 .btns{
 grid-row:2/3;
 justify-self: center;
-margin-right: 80px;
+margin-left: 150px;
 margin-top: 20px;
 }
 
@@ -101,7 +101,7 @@ margin-top: 20px;
  grid-row:3/4;   
  font-size: 12px;
  justify-self: center;
- margin-right: 80px;
+ margin-left: 150px;
  margin-top: 20px;
 }
 
