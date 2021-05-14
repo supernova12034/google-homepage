@@ -159,5 +159,9 @@ padding-left: 10px;
 color: rgb(63, 63, 63);
 
 }
+
+.french{
+    color: rgb(0, 89, 255);
+}
 /*Apparently to remove text decoration from the links, you have to target the links
 directly, instead of their parent divs or containers. */
