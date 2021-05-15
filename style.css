@@ -66,6 +66,10 @@ margin-left: 1400px;
     margin-top: 10%;
 }
 
+#search:hover{
+    box-shadow: 4px 4px 10px lightgray;
+}
+
 #search{
     background-image:url(https://img.icons8.com/android/24/000000/search.png);
     background-size:5%;
@@ -78,6 +82,7 @@ margin-left: 1400px;
     height:35px;
     width: 550px;
    margin-right: 150px;
+   
     }
 
 .search{
